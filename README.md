@@ -1,16 +1,15 @@
 ## Hi there 👋
+# I'm Lorenzo
 
-<!--
-**rizofan88/rizofan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on C, systems programming, assembly, and low-level software. 
 
-Here are some ideas to get you started:
+Current work:
+- C-based EVM-style virtual machine
+- x86 assembly exercises from Programming from the Ground Up
+- Memory allocation and Linux process/memory experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Small side projects:
+- Ethereum CTFs
+- Solana trading infrastructure
+- Small iOS application
+
